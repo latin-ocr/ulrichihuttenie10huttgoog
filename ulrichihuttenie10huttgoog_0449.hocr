@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie10huttgoog_0449.png"; bbox 0 0 3276 5414; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 231 454 1464 630">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 231 454 1464 630">
+     <span class='ocr_line' id='line_1_1' title="bbox 231 454 1464 630; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 231 454 764 627; x_wconf 81' lang='lat' dir='ltr'><strong>VLRIOHI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 830 454 1464 630; x_wconf 86' lang='lat' dir='ltr'>HVTTENI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 705 803 957 897">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 705 803 957 897">
+     <span class='ocr_line' id='line_1_2' title="bbox 705 803 957 897; baseline 0.008 -17"><span class='ocrx_word' id='word_1_3' title='bbox 705 803 957 897; x_wconf 81' lang='lat' dir='ltr'>EQVI&#39;PIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 107 1068 1044 1330">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 107 1068 1044 1330">
+     <span class='ocr_line' id='line_1_3' title="bbox 107 1068 1044 1330; baseline 0.003 -72"><span class='ocrx_word' id='word_1_4' title='bbox 107 1068 115 1089; x_wconf 77' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 263 1326 265 1330; x_wconf 6' lang='lat' dir='ltr'><strong><em>J</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 492 1141 501 1157; x_wconf 50' lang='lat'>‘</span> <span class='ocrx_word' id='word_1_7' title='bbox 627 1125 1044 1261; x_wconf 81' lang='lat' dir='ltr'><strong>DIALOGI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 381 1619 1300 1709">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 381 1619 1300 1709">
+     <span class='ocr_line' id='line_1_4' title="bbox 381 1619 1300 1709; baseline 0.003 -4"><span class='ocrx_word' id='word_1_8' title='bbox 381 1619 916 1705; x_wconf 83' lang='lat' dir='ltr'>PSEVDOHVTTENICI</span> <span class='ocrx_word' id='word_1_9' title='bbox 943 1622 1064 1706; x_wconf 89' lang='lat' dir='ltr'>NON</span> <span class='ocrx_word' id='word_1_10' title='bbox 1091 1623 1300 1709; x_wconf 83' lang='lat' dir='ltr'><strong>NVLLI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 529 2263 1136 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 529 2263 1136 2368">
+     <span class='ocr_line' id='line_1_5' title="bbox 529 2263 1136 2368; baseline 0.005 -3"><span class='ocrx_word' id='word_1_11' title='bbox 529 2281 837 2366; x_wconf 72' lang='lat' dir='ltr'><strong>EDvARDvs</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 867 2263 1136 2368; x_wconf 69' lang='grc' dir='ltr'><strong>ΒὸοΚΙΝα</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1642 5414">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1642 5414">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1642 5414; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1642 5414; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
